@@ -78,3 +78,6 @@ There are 2 key assumptions made:
 ## Credit
 I originally started from a fork of this [repo](https://github.com/fuenwang/3D-BoundingBox), and some of the original code still exists in the training script.
 "# 3D-object-detection" 
+"# 3d" 
+"# 3d" 
+"# 3D" 
